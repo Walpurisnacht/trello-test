@@ -1,0 +1,15 @@
+{
+  "name": "trello-test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "trello" : "0.7.0",
+    "config" : "1.26.1",
+    "ontime" : "0.0.3",
+    "better-sqlite3": "3.0.3",
+    "moment": "2.18.1"
+  }
+}
